@@ -4,7 +4,7 @@ WordPress plugin for fine-grained access control over plugins and custom post ty
 
 **Version:** 2.1.0
 
-**Author:** Papp Ádám / PixelDesigns
+**Author:** PixelDesigns
 
 **License:** GPL-2.0-or-later
 
