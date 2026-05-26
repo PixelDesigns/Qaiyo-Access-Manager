@@ -1,0 +1,159 @@
+# French translation for Qaiyo Access Manager
+# Copyright (C) 2026 Papp Ádám
+msgid ""
+msgstr ""
+"Project-Id-Version: Qaiyo Access Manager 1.0.0\n"
+"Report-Msgid-Bugs-To: https://qaiyo.com\n"
+"POT-Creation-Date: 2026-05-20 00:00+0000\n"
+"PO-Revision-Date: 2026-05-20 00:00+0000\n"
+"Last-Translator: Papp Ádám\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Qaiyo Access Manager"
+msgstr "Qaiyo Access Manager"
+
+msgid "Access Manager"
+msgstr "Gestionnaire d'accès"
+
+msgid "Activate/Deactivate"
+msgstr "Activer/Désactiver"
+
+msgid "Edit"
+msgstr "Modifier"
+
+msgid "Install"
+msgstr "Installer"
+
+msgid "Update"
+msgstr "Mettre à jour"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "Publish"
+msgstr "Publier"
+
+msgid "Edit others"
+msgstr "Modifier ceux des autres"
+
+msgid "Read private"
+msgstr "Lire les privés"
+
+msgid "Create"
+msgstr "Créer"
+
+msgid "Saving..."
+msgstr "Enregistrement..."
+
+msgid "Settings saved!"
+msgstr "Paramètres enregistrés !"
+
+msgid "An error occurred while saving."
+msgstr "Une erreur est survenue lors de l'enregistrement."
+
+msgid "Search user..."
+msgstr "Rechercher un utilisateur..."
+
+msgid "Allowed"
+msgstr "Autorisé"
+
+msgid "Denied"
+msgstr "Refusé"
+
+msgid "Remove"
+msgstr "Supprimer"
+
+msgid "No results"
+msgstr "Aucun résultat"
+
+msgid "Save settings"
+msgstr "Enregistrer les paramètres"
+
+msgid "You do not have permission to perform this action."
+msgstr "Vous n'avez pas la permission d'effectuer cette action."
+
+msgid "You do not have permission to access this content type."
+msgstr "Vous n'avez pas la permission d'accéder à ce type de contenu."
+
+msgid "Some plugins are hidden because your access is restricted. Contact your administrator for more access."
+msgstr "Certaines extensions sont masquées car votre accès est restreint. Contactez votre administrateur."
+
+msgid "You do not have permission to access this page."
+msgstr "Vous n'avez pas la permission d'accéder à cette page."
+
+msgid "Control plugin and content type access at role and user level. Administrators always have full access."
+msgstr "Contrôlez l'accès aux extensions et types de contenu par rôle et par utilisateur. Les administrateurs ont toujours un accès complet."
+
+msgid "Plugins"
+msgstr "Extensions"
+
+msgid "Content Types (CPT)"
+msgstr "Types de contenu (CPT)"
+
+msgid "Search..."
+msgstr "Rechercher..."
+
+msgid "Expand all"
+msgstr "Tout déplier"
+
+msgid "Collapse all"
+msgstr "Tout replier"
+
+msgid "No plugins installed to manage."
+msgstr "Aucune extension installée à gérer."
+
+msgid "Active"
+msgstr "Actif"
+
+msgid "Inactive"
+msgstr "Inactif"
+
+msgid "Restricted"
+msgstr "Restreint"
+
+msgid "Default WordPress Capabilities"
+msgstr "Capacités WordPress par défaut"
+
+msgid "Role-based access"
+msgstr "Accès basé sur le rôle"
+
+msgid "If no role is selected, the item remains accessible to everyone."
+msgstr "Si aucun rôle n'est sélectionné, l'élément reste accessible à tous."
+
+msgid "Select all"
+msgstr "Tout sélectionner"
+
+msgid "Deselect all"
+msgstr "Tout désélectionner"
+
+msgid "User-level override"
+msgstr "Remplacement au niveau utilisateur"
+
+msgid "Individual allow or deny that overrides role-based rules. Administrators cannot be listed."
+msgstr "Autorisation ou refus individuel qui remplace les règles basées sur les rôles. Les administrateurs ne peuvent pas être listés."
+
+msgid "Search user (name, email, login)..."
+msgstr "Rechercher un utilisateur (nom, e-mail, login)..."
+
+msgid "No custom post types registered."
+msgstr "Aucun type de contenu personnalisé enregistré."
+
+msgid "Public"
+msgstr "Public"
+
+msgid "Singular:"
+msgstr "Singulier :"
+
+msgid "Archive:"
+msgstr "Archive :"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "Qaiyo Access Manager v%s — Created by PixelDesigns"
+msgstr "Qaiyo Access Manager v%s — Créé par PixelDesigns"
