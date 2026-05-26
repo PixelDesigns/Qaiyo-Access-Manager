@@ -2,7 +2,7 @@
 
 WordPress plugin for fine-grained access control over plugins and custom post types — per role or per individual user.
 
-**Version:** 2.1.0
+**Version:** 1.0.0
 
 **Author:** PixelDesigns
 
