@@ -1,0 +1,159 @@
+# Hungarian translation for Qaiyo Access Manager
+# Copyright (C) 2026 Papp Ádám
+msgid ""
+msgstr ""
+"Project-Id-Version: Qaiyo Access Manager 1.0.0\n"
+"Report-Msgid-Bugs-To: https://qaiyo.com\n"
+"POT-Creation-Date: 2026-05-20 00:00+0000\n"
+"PO-Revision-Date: 2026-05-20 00:00+0000\n"
+"Last-Translator: Papp Ádám\n"
+"Language-Team: Hungarian\n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Qaiyo Access Manager"
+msgstr "Qaiyo Access Manager"
+
+msgid "Access Manager"
+msgstr "Access Manager"
+
+msgid "Activate/Deactivate"
+msgstr "Aktiválás/Deaktiválás"
+
+msgid "Edit"
+msgstr "Szerkesztés"
+
+msgid "Install"
+msgstr "Telepítés"
+
+msgid "Update"
+msgstr "Frissítés"
+
+msgid "Delete"
+msgstr "Törlés"
+
+msgid "Publish"
+msgstr "Publikálás"
+
+msgid "Edit others"
+msgstr "Mások szerkesztése"
+
+msgid "Read private"
+msgstr "Privát olvasása"
+
+msgid "Create"
+msgstr "Létrehozás"
+
+msgid "Saving..."
+msgstr "Mentés..."
+
+msgid "Settings saved!"
+msgstr "Beállítások mentve!"
+
+msgid "An error occurred while saving."
+msgstr "Hiba történt a mentés során."
+
+msgid "Search user..."
+msgstr "Felhasználó keresése..."
+
+msgid "Allowed"
+msgstr "Engedélyezve"
+
+msgid "Denied"
+msgstr "Tiltva"
+
+msgid "Remove"
+msgstr "Eltávolítás"
+
+msgid "No results"
+msgstr "Nincs találat"
+
+msgid "Save settings"
+msgstr "Beállítások mentése"
+
+msgid "You do not have permission to perform this action."
+msgstr "Nincs jogosultságod ehhez a művelethez."
+
+msgid "You do not have permission to access this content type."
+msgstr "Nincs jogosultságod ehhez a tartalomtípushoz."
+
+msgid "Some plugins are hidden because your access is restricted. Contact your administrator for more access."
+msgstr "Egyes pluginok nem jelennek meg, mert a hozzáférésed korlátozva van. Fordulj az adminisztrátorhoz."
+
+msgid "You do not have permission to access this page."
+msgstr "Nincs jogosultságod ehhez az oldalhoz."
+
+msgid "Control plugin and content type access at role and user level. Administrators always have full access."
+msgstr "Szerepkör és felhasználó szinten szabályozhatod a pluginokhoz és bejegyzéstípusokhoz való hozzáférést. Az adminisztrátorok mindig mindenhez hozzáférnek."
+
+msgid "Plugins"
+msgstr "Pluginok"
+
+msgid "Content Types (CPT)"
+msgstr "Bejegyzéstípusok (CPT)"
+
+msgid "Search..."
+msgstr "Keresés..."
+
+msgid "Expand all"
+msgstr "Összes kinyitása"
+
+msgid "Collapse all"
+msgstr "Összes becsukása"
+
+msgid "No plugins installed to manage."
+msgstr "Nincsenek telepített pluginok a kezeléshez."
+
+msgid "Active"
+msgstr "Aktív"
+
+msgid "Inactive"
+msgstr "Inaktív"
+
+msgid "Restricted"
+msgstr "Szabályozva"
+
+msgid "Default WordPress Capabilities"
+msgstr "Gyári WordPress jogosultságok"
+
+msgid "Role-based access"
+msgstr "Hozzáférés szerepkör alapján"
+
+msgid "If no role is selected, the item remains accessible to everyone."
+msgstr "Ha nincs kijelölve szerepkör, mindenki számára elérhető marad."
+
+msgid "Select all"
+msgstr "Mind kijelöl"
+
+msgid "Deselect all"
+msgstr "Mind töröl"
+
+msgid "User-level override"
+msgstr "Felhasználó szintű felülírás"
+
+msgid "Individual allow or deny that overrides role-based rules. Administrators cannot be listed."
+msgstr "Egyedi engedélyezés vagy tiltás, ami felülírja a szerepkör-szabályt. Az adminisztrátorok nem listázhatók."
+
+msgid "Search user (name, email, login)..."
+msgstr "Felhasználó keresése (név, email, login)..."
+
+msgid "No custom post types registered."
+msgstr "Nincsenek egyéni bejegyzéstípusok regisztrálva."
+
+msgid "Public"
+msgstr "Publikus"
+
+msgid "Singular:"
+msgstr "Egyes szám:"
+
+msgid "Archive:"
+msgstr "Archívum:"
+
+msgid "Yes"
+msgstr "Igen"
+
+msgid "Qaiyo Access Manager v%s — Created by PixelDesigns"
+msgstr "Qaiyo Access Manager v%s — Készítette: PixelDesigns"
